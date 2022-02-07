@@ -1,4 +1,4 @@
-# pastabar
+# Pastabar Pahuljica (featuring GitHub Pages)
 Beta website of Pastabar Pahuljica!
 This repository was supposed to be a website for a pastabar, before the project was cancelled.
 
